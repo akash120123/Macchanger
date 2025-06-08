@@ -1,6 +1,6 @@
-# 🔧 MAC Changer – My First Dive into Network Tweaking!
+# 🔧 MAC Changer, My First Dive into Network Tweaking!
 
-A while ago, I got curious about how MAC addresses work and wondered if I could actually change mine. That curiosity led me down a rabbit hole—and after some head-scratching, coffee, and a few frustrating terminal errors—I built **this script**.
+A while ago, I got curious about how MAC addresses work and wondered if I could change mine. 
 
 It's simple, to the point, and does exactly what I needed: changes your MAC address from the terminal using Python.
 
