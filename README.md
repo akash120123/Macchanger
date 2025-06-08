@@ -13,6 +13,8 @@ It's simple, to the point, and does exactly what I needed: changes your MAC addr
 - 🧰 Uses basic Python libraries: `subprocess`, `optparse`, and `re`
 
 ---
+## 🛠 OS
+Its is supported in Linux 
 
 ## 🛠 How to Use
 
